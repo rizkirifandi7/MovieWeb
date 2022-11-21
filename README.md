@@ -1,3 +1,3 @@
 # MovieWebsite
 
-Link Website : http://rizkiboom.me/MovieWebsite/
+Link Website : http://rizkirifandi7.github.io/MovieWebsite/
