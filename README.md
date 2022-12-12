@@ -1,3 +1,3 @@
 # MovieWebsite
 
-Link Website : http://rizkirifandi7.github.io/MovieWebsite/
+Link Website : https://rizkirifandi7.github.io/MovieWeb/
